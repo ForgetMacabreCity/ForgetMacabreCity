@@ -8,5 +8,5 @@
  
 
 <p align="center"> 
- <span style="color: red"> Some green text </ [Thank you to @sawmassacre for the graphics!](https://www.tumblr.com/sawmassacre)>
+ <span style="color: f03c15 "> Some green text </ [Thank you to @sawmassacre for the graphics!](https://www.tumblr.com/sawmassacre)>
 
