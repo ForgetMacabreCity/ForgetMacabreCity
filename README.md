@@ -1,1 +1,1 @@
-![image alt](https://github.com/ForgetMacabreCity/ForgetMacabreCity/blob/b509380dea06ba5c19ff070035e875f12b6854a4/tumblr_fcd425f8da0409e7cc8f22c845cb3355_bb2a4763_500.webp)
+![image alt](
