@@ -1,2 +1,1 @@
-![image alt](https://github.com/ForgetMacabreCity/ForgetMacabreCity/blob/12bb8286d7cb01db898a3829ac8a9d90c5f3b38d/llala-resized.png)
-<img src="https://github.com/ForgetMacabreCity/ForgetMacabreCity/blob/12bb8286d7cb01db898a3829ac8a9d90c5f3b38d/llala-resized.png" width="200" height="400" />
+<img src="https://github.com/ForgetMacabreCity/ForgetMacabreCity/blob/3ce563fd03bac407bb0540178ec7c0da27b1bead/llala-resized.png" width="200" height="400" />
